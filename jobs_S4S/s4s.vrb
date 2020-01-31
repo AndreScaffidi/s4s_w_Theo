@@ -1,0 +1,20 @@
+\frametitle{Direct detection: New notation and model parameters}
+
+Define the parameters:
+\pause
+\begin{align*}
+\alert<3>{r_{\rho}} \equiv \frac{\rho_2}{\rho_1}\;,\quad \alert<3>{r_{\sigma}} \equiv \frac{\sigma_2^p}{\sigma_1^p} \;,\quad C(r_\rho,\sigma_1^p) \equiv \frac{\rho_{\rm loc}\,\sigma_1^p}{2 \,(1+r_\rho)\,m_p^2} \,.
+\end{align*}
+\pause
+Setting $r_{\rho} = 0$ recovers one-component rate:
+\scalebox{0.9}{\parbox{0.5\linewidth}{
+\begin{align*}
+ R^{\rm SI}(E_{R}) &= C(r_\rho, {\sigma_1^p}) \,F_{\rm SI}^2(E_{R}) \,\left[\frac{(A^{\rm eff}_{1})^2}{m_1}\,\eta(E_R,\sigma_{H_1}) +\frac{(A^{\rm eff}_{2})^2}{m_2}\alert<3>{\,r_{\rho}\,r_{\sigma}}\,\eta(E_R,\sigma_{H_2})\right] \\\\
+ R^{\rm SD}(E_R) &=C(r_\rho, \sigma_1^p) \,\left[\frac{F_{\rm SD}^2(E_{R},\kappa^{\rm SD}_1)}{m_1}\,\eta(E_R,\sigma_{H_1}) +\frac{F_{\rm SD}^2(E_{R},\kappa^{\rm SD}_2)}{m_2}\,\alert<3>{r_{\rho}\,r_{\sigma}}\,\eta(E_R,\sigma_{H_1})\right]
+\end{align*}
+}}
+\pause[4]
+\begin{block}{Model parameters that parameterise $\Ho$ and $\Ht$}
+\alert{ $m_1$, $m_2$, $\sigma_1^p$, $\kappa_1$, $\kappa_2$, $r_\rho$, $r_\sigma$, $\sigma_{H_1}$, $\sigma_{H_2}$}
+\end{block}
+

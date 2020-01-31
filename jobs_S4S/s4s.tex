@@ -1,0 +1,69 @@
+\documentclass[10pt]{beamer}
+
+\usetheme{metropolis}
+\usepackage{appendixnumberbeamer}
+\usepackage{empheq}
+\usepackage{pdfpages}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage[scale=2]{ccicons}
+\usepackage{tikz}
+\usepackage{media9}
+
+\usepackage{listings}
+
+
+\usetikzlibrary{calc,shapes.callouts,shapes.arrows}
+\newcommand{\deriv}{\stackrel{\leftrightarrow}{\partial}}
+\newcommand{\derleft}{\stackrel{\leftarrow}{\partial}}
+\newcommand{\derright}{\stackrel{\rightarrow}{\partial}}
+\newcommand{\vect}[1]{\boldsymbol{\rm #1}}
+\newcommand{\ev}[1]{\ensuremath{\left\langle #1 \right\rangle}} %
+\newcommand{\Ho}{H_{1\textrm{DM}}}
+\newcommand{\Ht}{H_{2\textrm{DM}}}
+\renewcommand{\L}{\mathcal{L}}
+\newcommand{\D}{\mathcal{D}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\speechthis}[2]{
+	\tikz[remember picture,baseline]{\node[anchor=base,inner sep=0,outer sep=0]%
+		(#1) {\underline{#1}};\node[overlay,ellipse callout,fill=blue!50] 
+		at ($(#1.north)+(-.5cm,0.8cm)$) {#2};}%
+}%
+\input{packageSlides}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{dateplot}
+
+
+
+\graphicspath{ {/home/andre/Uni/Dropbox/Project/Directional/tex_multi/v_2/figures/} {/home/andre/Uni/Dropbox/Project/Directional/tex_multi/v_2/paramEst/} }
+
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\title{Getting an academic job (online).  }
+\date{\today}
+\author{Andre Scaffidi and Theo Motta }
+
+%\titlegraphic{\hfill\includegraphics[height=1.0cm]{picture}}
+%\titlegraphic{\hfill\includegraphics[height=1.0cm]{CoEPPlogo1}}
+
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{Contents}
+\tableofcontents
+\end{frame}
+
+
+
+
+\section{Overview}
+
+
+
+
+\end{document}

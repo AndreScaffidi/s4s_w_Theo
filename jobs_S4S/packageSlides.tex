@@ -1,0 +1,79 @@
+% Maths Packages
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+%\usepackage{physics}
+\usepackage{slashed}
+
+% Graphics Packages
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{subcaption}
+
+
+%\fontfamily{qag}\selectfont
+
+%\useoutertheme{infolines}
+%\useinnertheme{rounded}
+
+%% Changeing the font
+\setbeamerfont{caption}{size=\scriptsize}
+\setbeamertemplate{caption}[numbered]
+%\usepackage[default]{charter}
+%\usepackage{fontenc}
+%\usefont{}
+
+% Defining colours
+\definecolor{cream}{RGB}{253,255,255}
+\definecolor{dGreen}{RGB}{20,50,50}
+\definecolor{lGreen}{RGB}{242,250,250}
+\definecolor{white}{RGB}{255,255,255}
+\definecolor{orange}{RGB}{230,140,50}
+\definecolor{lPurple}{RGB}{250,240,255}
+\definecolor{dPurple}{RGB}{40,20,50}
+
+% Setting colours
+\setbeamercolor{background canvas}{bg=white}
+
+% Font Colours
+\setbeamercolor{title}{fg=dGreen}
+\setbeamercolor{normal text}{fg=dGreen,bg=white}
+\setbeamercolor{frametitle}{fg=white,bg=dGreen=20}
+
+\setbeamercolor{bibliography entry author}{fg=dGreen,bg=white}
+\setbeamercolor{bibliography entry title}{fg=dGreen,bg=white} 
+\setbeamercolor{bibliography entry location}{fg=dGreen,bg=white} 
+\setbeamercolor{bibliography entry note}{fg=dGreen,bg=white}  
+
+% Fixing lists
+\setbeamertemplate{itemize items}[default]
+\setbeamertemplate{enumerate items}[default]
+\setbeamercolor{itemize item}{fg=orange}
+\setbeamercolor{itemize subitem}{fg=orange}
+\setbeamercolor{itemize subsubitem}{fg=orange}
+\setbeamercolor{enumerate item}{fg=orange}
+\setbeamercolor{enumerate subitem}{fg=orange}
+\setbeamercolor{enumerate subsubitem}{fg=orange}
+
+% Setting transperancy of unrevealed points
+\setbeamercovered{transparent=20}
+
+% Setting block parameters
+\setbeamertemplate{blocks}[default]
+\setbeamercolor{block title}{bg=dGreen,fg=white}
+\setbeamercolor{block body}{bg=lGreen}
+
+% Setting footnote parameters
+\setbeamertemplate{footline}{{
+          \makebox[\textwidth]{\hfill\makebox[20pt]{\color{dGreen}
+          \scriptsize \insertframenumber / \inserttotalframenumber}}}\hspace*{5pt}}
+
+%International Nuclear Physics Conference September 11-16, 2016
+
+% Correcting bibliography style
+\setbeamertemplate{bibliography item}{\insertbiblabel}
+
+% Removing navigation symbols from bottom right.
+\beamertemplatenavigationsymbolsempty
