@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.11.21)  7 FEB 2020 12:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.11.21)  17 FEB 2020 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1599,14 +1599,31 @@ Overfull \hbox (5.0pt too wide) has occurred while \output is active
 
 [11
 
-] [12
+]
+<../Distribution.pdf, id=115, 722.7pt x 578.16pt>
+File: ../Distribution.pdf Graphic file (type pdf)
+<use ../Distribution.pdf>
+Package pdftex.def Info: ../Distribution.pdf  used on input line 117.
+(pdftex.def)             Requested size: 307.28987pt x 245.83385pt.
+
+Overfull \vbox (15.07607pt too high) detected at line 117
+ []
+
+
+Overfull \hbox (5.0pt too wide) has occurred while \output is active
+[][]| [][] 
+ []
+
+[12
+
+ <../Distribution.pdf>] [13
 
 ]
 Overfull \hbox (5.0pt too wide) has occurred while \output is active
 [][]| [][] 
  []
 
-[13
+[14
 
 ]
 \tf@nav=\write6
@@ -1618,19 +1635,25 @@ Overfull \hbox (5.0pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `s4s.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
- (./s4s.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+ (./s4s.aux
+*************************************************
+* pdfbase warning: "rerun"
+* 
+* Rerun to get internal references right!
+*************************************************
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `s4s.out' has not changed.
 (rerunfilecheck)             Checksum: FBDE65320DB4F05C35D958D0FB1FFE7A;356.
  ) 
 Here is how much of TeX's memory you used:
- 45795 strings out of 492641
- 1041440 string characters out of 6131786
+ 45803 strings out of 492641
+ 1041597 string characters out of 6131786
  1261462 words of memory out of 5000000
- 48889 multiletter control sequences out of 15000+600000
+ 48893 multiletter control sequences out of 15000+600000
  537940 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,99p,1802b,689s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1640,10 +1663,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on s4s.pdf (13 pages, 419721 bytes).
+Output written on s4s.pdf (14 pages, 432841 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
