@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.11.21)  21 FEB 2020 12:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.11.21)  26 FEB 2020 11:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1616,14 +1616,58 @@ Overfull \hbox (5.0pt too wide) has occurred while \output is active
 
 [12
 
- <../Distribution.pdf>] [13
+ <../Distribution.pdf>]
+<offers_2020.pdf, id=153, 722.7pt x 578.16pt>
+File: offers_2020.pdf Graphic file (type pdf)
+<use offers_2020.pdf>
+Package pdftex.def Info: offers_2020.pdf  used on input line 124.
+(pdftex.def)             Requested size: 150.57372pt x 120.45558pt.
+<offers_2019.pdf, id=154, 722.7pt x 578.16pt>
+File: offers_2019.pdf Graphic file (type pdf)
+<use offers_2019.pdf>
+Package pdftex.def Info: offers_2019.pdf  used on input line 124.
+(pdftex.def)             Requested size: 150.57372pt x 120.45558pt.
+<offers_2018.pdf, id=155, 722.7pt x 578.16pt>
+File: offers_2018.pdf Graphic file (type pdf)
+<use offers_2018.pdf>
+Package pdftex.def Info: offers_2018.pdf  used on input line 124.
+(pdftex.def)             Requested size: 150.57372pt x 120.45558pt.
+<offers_2017.pdf, id=156, 722.7pt x 578.16pt>
+File: offers_2017.pdf Graphic file (type pdf)
+<use offers_2017.pdf>
+Package pdftex.def Info: offers_2017.pdf  used on input line 124.
+(pdftex.def)             Requested size: 150.57372pt x 120.45558pt.
+
+Overfull \vbox (11.15338pt too high) detected at line 124
+ []
+
+
+Overfull \hbox (5.0pt too wide) has occurred while \output is active
+[][]| [][] 
+ []
+
+[13
+
+ <./offers_2020.pdf> <./offers_2019.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./offers_2019.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./offers_2018.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./offers_2018.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./offers_2017.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./offers_2017.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>] [14
 
 ]
 Overfull \hbox (5.0pt too wide) has occurred while \output is active
 [][]| [][] 
  []
 
-[14
+[15
 
 ]
 \tf@nav=\write6
@@ -1635,19 +1679,19 @@ Overfull \hbox (5.0pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `s4s.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
  (./s4s.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `s4s.out' has not changed.
 (rerunfilecheck)             Checksum: FBDE65320DB4F05C35D958D0FB1FFE7A;356.
  ) 
 Here is how much of TeX's memory you used:
- 45805 strings out of 492641
- 1041613 string characters out of 6131786
+ 45829 strings out of 492641
+ 1042120 string characters out of 6131786
  1261462 words of memory out of 5000000
- 48895 multiletter control sequences out of 15000+600000
+ 48913 multiletter control sequences out of 15000+600000
  537940 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,99p,1802b,689s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1657,10 +1701,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on s4s.pdf (14 pages, 434000 bytes).
+Output written on s4s.pdf (15 pages, 478431 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 298 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 

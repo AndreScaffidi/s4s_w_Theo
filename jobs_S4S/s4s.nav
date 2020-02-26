@@ -34,15 +34,17 @@
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\slideentry {4}{0}{3}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {10}{12}}
-\headcommand {\beamer@subsectionpages {10}{12}}
-\headcommand {\sectionentry {5}{The interview}{13}{The interview}{0}}
-\headcommand {\slideentry {5}{0}{1}{13/13}{}{0}}
+\headcommand {\slideentry {4}{0}{4}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {5}{0}{2}{14/14}{}{0}}
+\headcommand {\beamer@sectionpages {10}{13}}
+\headcommand {\beamer@subsectionpages {10}{13}}
+\headcommand {\sectionentry {5}{The interview}{14}{The interview}{0}}
+\headcommand {\slideentry {5}{0}{1}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@partpages {1}{14}}
-\headcommand {\beamer@subsectionpages {13}{14}}
-\headcommand {\beamer@sectionpages {13}{14}}
-\headcommand {\beamer@documentpages {14}}
-\headcommand {\gdef \inserttotalframenumber {8}}
+\headcommand {\slideentry {5}{0}{2}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@partpages {1}{15}}
+\headcommand {\beamer@subsectionpages {14}{15}}
+\headcommand {\beamer@sectionpages {14}{15}}
+\headcommand {\beamer@documentpages {15}}
+\headcommand {\gdef \inserttotalframenumber {9}}
